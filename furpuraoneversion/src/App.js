@@ -5,6 +5,7 @@ import Login from './components/Login/Login';
 import Comentarios from './components/Comentarios/Comentarios';
 import Inicio from './components/Inicio/Inicio';
 import { Cadastro } from './components/Cadastro';
+import Trabalhaaqui from './components/Trabalhaaqui/Trabalhaaqui';
 
 function App() {
   return (
@@ -13,8 +14,10 @@ function App() {
   {/*
      <Login > </Login>
       <Comentarios> </Comentarios>
-       <Inicio > </Inicio>*/}
+       <Inicio > </Inicio>
        <Cadastro > </Cadastro>
+       */}
+       <Trabalhaaqui> </Trabalhaaqui>
     </div>
   );
 }
